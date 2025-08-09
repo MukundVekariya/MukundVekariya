@@ -1,7 +1,7 @@
 ### 💫 Hi 👋, I'm Mukund Vekariya
 **Data Engineer  +  Data analyst**
 
-As a passionate Data Engineer with 1.5+ years of hands‑on industry experience, I enjoy working with complex data systems and building scalable solutions that help businesses make better decisions. With a Master’s in Data Science, I am currently co‑authoring a research publication with the University of Koblenz and Mercedes‑Benz.
+As a passionate Data Engineer with hands‑on industry experience, I enjoy working with complex data systems and building scalable solutions that help businesses make better decisions. With a Master’s in Data Science, I am currently co‑authoring a research publication with the University of Koblenz and Mercedes‑Benz.
 
 Fueled by curiosity and a passion for continuous learning, I am always looking to grow my expertise and contribute to impactful, data‑driven projects.
 
